@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdk-21.0.5">
+    <CLASSES>
+      <root url="file://C:/Program Files/Eclipse Adoptium/jdk-21.0.5.11-hotspot" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

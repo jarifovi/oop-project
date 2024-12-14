@@ -8,7 +8,7 @@
 <?import javafx.scene.control.TextField?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<AnchorPane fx:id="dateDatePicker" prefHeight="691.0" prefWidth="723.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.prison_management.BookSchedule">
+<AnchorPane fx:id="dateDatePicker" prefHeight="691.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.prison_management.BookSchedule">
    <children>
       <Label layoutX="38.0" layoutY="194.0" prefHeight="18.0" prefWidth="58.0" text="Time :" />
       <Label layoutX="38.0" layoutY="244.0" text="Date :" />
